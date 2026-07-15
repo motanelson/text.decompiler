@@ -1,1 +1,1 @@
-decompiles text files .txtcx
+command shell script var handle
